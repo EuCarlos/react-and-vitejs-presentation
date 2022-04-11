@@ -1,7 +1,9 @@
-# LandPage React
+# React.js and Vite.js presentation
 _Para a versão em português deste README, [clique aqui](/locales/pt_BR/README.md)._
 ## Project description
 ⚛️ ⚡ Repository with code and presentation about React JS and Vite JS
+
+_For view the presentation in PDF, [click here](/presentation/aplicacoes_react_com_vite_js.pdf)._
 
 <p>
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EuCarlos/react-and-vitejs-presentation?style=flat-square">
