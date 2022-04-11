@@ -1,0 +1,33 @@
+[
+    {
+        "id": "b9ebbe1d-5520-433a-aa2f-340a64e1e6c3",
+        "product_name": "Nome do Produto",
+        "price": 250.99,
+        "stock": true,
+        "has_forecast": false,
+        "product_limited": 10,
+        "day_for_forecast": 0,
+        "created_at": "21/12/2021 - 10:15",
+        "updated_at" : "21/12/2021 - 10:15"
+    },{
+        "id": "b8851ccf-27f2-4c44-9b99-165ad056041e",
+        "product_name": "Nome do Produto",
+        "price": 110.97,
+        "stock": false,
+        "has_forecast": true,
+        "day_for_forecast": 5,
+        "product_limited": 0,
+        "created_at": "21/12/2021 - 14:30",
+        "updated_at" : "21/12/2021 - 14:30"
+    },{
+        "id": "ea162891-28e5-408f-89c0-3915f2435316",
+        "product_name": "Nome do Produto",
+        "price": 367.54,
+        "stock": false,
+        "has_forecast": false,
+        "day_for_forecast": 0,
+        "product_limited": 0,
+        "created_at": "21/12/2021 - 15:01",
+        "updated_at" : "21/12/2021 - 15:01"
+    }
+  ]
