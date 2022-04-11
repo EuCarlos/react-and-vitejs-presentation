@@ -1,1 +1,78 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 
+.App {
+    background: #E7E6E6;
+    color: #2F2E2E;
+    width: 25rem;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    margin: 1rem 0;
+}
+
+section .info {
+    width: 100%;
+    padding: .5rem
+}
+
+section .price_and_stock {
+    display: flex;
+    flex-direction: row;
+}
+
+section .unities {
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section .price_and_stock .price { margin-right: 14px; }
+h1, h2 { margin: 0; }
+
+.product_image { 
+    width: 6rem; 
+    height: 7rem; 
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+input { background: #C4C4C4; border: 1px solid #2F2E2E; width: 40px; }
+input:focus { outline: 1px solid #4A9FC3; }
+
+.green { color: #4FBB29; }
+.gray { color: #786A7A; }
+.red { color: #BB2929; }
+.green, .gray, .red { font-weight: bold; }
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 5;
+
+    margin: 0;
+    text-align: center;
+}
+
+footer p { margin: 0; }
+
+footer a {
+    text-decoration: none;
+    color: #FFF;
+}
