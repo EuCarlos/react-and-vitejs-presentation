@@ -1,5 +1,5 @@
 # React.js and Vite.js presentation
-_Para a versão em português deste README, [clique aqui](/locales/pt_BR/README.md)._
+_Para a versão em português deste README, [clique aqui](./locales/pt_br/README.md)._
 ## Project description
 ⚛️ ⚡ Repository with code and presentation about React JS and Vite JS
 
