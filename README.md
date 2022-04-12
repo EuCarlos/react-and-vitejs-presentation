@@ -19,6 +19,10 @@ ___
 ### General Objective: 
 Create presentation with sample code of how to use react.js with vita.js to create web applications
 
+<img src="./.github/print_website.png" width="100%"/>
+
+<p align="center"><a href="https://eucarlos.github.io/react-and-vitejs-presentation/">View website in production</a></p>
+
 ### Installation
 
 Clone the repo:
