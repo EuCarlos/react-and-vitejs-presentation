@@ -3,14 +3,19 @@ _Para a versão em português deste README, [clique aqui](./locales/pt_br/README
 ## Project description
 ⚛️ ⚡ Repository with code and presentation about React JS and Vite JS
 
-_For view the presentation in PDF, [click here](/presentation/aplicacoes_react_com_vite_js.pdf)._
-
 <p>
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EuCarlos/react-and-vitejs-presentation?style=flat-square">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EuCarlos/react-and-vitejs-presentation?color=orange&style=flat-square">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EuCarlos/react-and-vitejs-presentation?color=yellow&style=flat-square">
     <img alt="GitHub" src="https://img.shields.io/github/license/EuCarlos/react-and-vitejs-presentation?style=flat-square">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/eucarlos/react-and-vitejs-presentation?style=flat-square">
+</p>
+
+_View the presentation in:_
+
+<p align="center">
+<a href="https://speakerdeck.com/eucarlos/aplicacoes-criadas-com-react-dot-js-e-vite-dot-js"><img src="https://img.shields.io/badge/speaker%20deck-see%20online-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
+<a href="/presentation/aplicacoes_react_com_vite_js.pdf"><img src="https://img.shields.io/badge/pdf-download%20pdf-e63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 ___
